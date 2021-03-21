@@ -1,0 +1,8 @@
+#body_background{
+    background-image: "avenger_background.jpg";
+    text-align: center;
+}
+#myCanvas{
+border-style: ridge;
+border-width: 10;
+}
